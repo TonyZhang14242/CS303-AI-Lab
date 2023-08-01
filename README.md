@@ -1,8 +1,18 @@
 # 2022F-CS303 Artificial Intelligence
 
-**This repository contains all the 2022 Fall CS303 AI Lab practices and projects.** 
+This repository contains all the **2022 Fall CS303 AI** Lab practices and projects. 
 
-Use as archive, ONLY REFERENCE, **DO NOT** COPY DIRECTLY.
+Use as archive, ONLY REFERENCE, <u>**DO NOT** COPY DIRECTLY</u>.
+
+Final Official Score (总评): 92 (Lab Practice:10% + Project: 40% + Final Exam: 50%)
+
+#### Teachers
+
+**Lecturer**: Prof. Yuan Bo
+
+**Lab Instructor**: Ms. Zhao Yao
+
+
 
 ### Lab Practice
 
